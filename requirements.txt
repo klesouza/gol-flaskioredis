@@ -1,0 +1,6 @@
+flask
+redis
+numpy
+gevent
+eventlet
+flask-socketio
